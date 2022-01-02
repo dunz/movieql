@@ -1,0 +1,9 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "Movie API with Graphql",
+  "main": "index.js",
+  "repository": "https://github.com/dunz/movieql.git",
+  "author": "Dunz<zergcake@gmail.com>",
+  "license": "MIT"
+}
